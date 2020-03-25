@@ -1,2 +1,3 @@
-# webprotestant
-Recensement du web protestant réformé en Suisse romande
+# LabelProestant
+
+Sous le sigle LabelProtestant, un recensement du web protestant réformé en Suisse romande.

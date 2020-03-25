@@ -56,6 +56,21 @@
 * [EPER](https://www.eper.ch/)
 * [Offrir son aide](https://www.offrir-son-aide.ch/)
 
+# Blogs et sites personnels
+
+* [Benjamin Corbaz](http://carnetderoutedunjeunepasteur.blogspot.com/)
+* [Olivier Bauer](https://olivierbauer.org/)
+* [Gilles Bourquin](http://gillesbourquin.ch/)
+* [Marc Pernot](https://jecherchedieu.ch/)
+* [Jean-Jacques Corbaz](http://textesdejjcorbaz.blogspot.com/)
+* [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
+* [Armin Kressmann](http://www.ethikos.ch/)
+* [Maurice Gardiol](http://resistanceetouverture.blog.tdg.ch/)
+* [Olivier Keshavjee](https://www.theologeek.ch/)
+* [Diane Friedli](https://dianefriedli.ch/)
+
+
+
 # À classer
 
 * [celebrer.ch](https://celebrer.ch/)
