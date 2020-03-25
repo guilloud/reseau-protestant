@@ -1,4 +1,9 @@
-# Églises
+## LabelProtestant
+
+Pour le moment, le tri ne sert qu'à travailler mieux et plus rapidement.
+Ne vous focalisez pas sur les choix actuels!
+
+## Églises
 
 * [Berne-Jura-Soleure](http://www.refbejuso.ch/)
 * [Fribourg (EERF)](https://www.ref-fr.ch/)
@@ -10,7 +15,8 @@
 * [Suisse alémanique (CERFSA)](http://cerfsa.ch/)
 * [Suisse (EERS)](https://www.evref.ch/)
 
-# Formation
+
+## Formation
 
 * [Office Protestant de la Formation (OPF)](https://www.protestant-formation.ch/)
 * [Atelier oecuménique de théologie (AOT)](http://www.aotge.ch/)
@@ -30,23 +36,27 @@
 * [Espace Fusterie](https://espace-fusterie.epg.ch/)
 * [Cathédrale de Lausanne](http://www.cathedrale-lausanne.ch/)
 
-# Livres
+
+## Livres
 
 * [Office protestant d'éditions chrétiennes (OPEC)](https://www.protestant-edition.ch/)
 * [Éditions Ouverture](https://editionsouverture.ch/)
 * [Éditions Labor et Fides](https://www.laboretfides.com/)
 
-# Culture
+
+## Culture
 
 * [Ciné-feuilles](https://www.cine-feuilles.ch/)
 
-# Médias
+
+## Médias
 
 * [Médias-pro](https://www.mediaspro.ch/)
 * [ProtestInfo](https://www.protestinfo.ch/)
 * [Réformés](https://www.reformes.ch/)
 
-# Solidarité
+
+## Solidarité
 
 * [Centre social protestant (CSP)](https://csp.ch/)
 * [diaconie.ch](https://www.diaconie.ch/)
@@ -56,7 +66,8 @@
 * [EPER](https://www.eper.ch/)
 * [Offrir son aide](https://www.offrir-son-aide.ch/)
 
-# Blogs et sites personnels
+
+## Blogs et sites personnels
 
 * [Benjamin Corbaz](http://carnetderoutedunjeunepasteur.blogspot.com/)
 * [Olivier Bauer](https://olivierbauer.org/)
@@ -70,7 +81,9 @@
 * [Diane Friedli](https://dianefriedli.ch/)
 
 
-
-# À classer
+## Et aussi
 
 * [celebrer.ch](https://celebrer.ch/)
+* [Le Lab](http://lelab.church/)
+* [La Maison bleu ciel](https://www.maisonbleuciel.ch/)
+* [Open Source Church](https://www.open-source.church/)
