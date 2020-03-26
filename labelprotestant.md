@@ -69,16 +69,21 @@ Ne vous focalisez pas sur les choix actuels!
 
 ## Blogs et sites personnels
 
-* [Benjamin Corbaz](http://carnetderoutedunjeunepasteur.blogspot.com/)
 * [Olivier Bauer](https://olivierbauer.org/)
 * [Gilles Bourquin](http://gillesbourquin.ch/)
-* [Marc Pernot](https://jecherchedieu.ch/)
+* [Benjamin Corbaz](http://carnetderoutedunjeunepasteur.blogspot.com/)
 * [Jean-Jacques Corbaz](http://textesdejjcorbaz.blogspot.com/)
-* [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
-* [Armin Kressmann](http://www.ethikos.ch/)
-* [Maurice Gardiol](http://resistanceetouverture.blog.tdg.ch/)
-* [Olivier Keshavjee](https://www.theologeek.ch/)
+* [Noémie Emery](http://pelerine-au-chocolat.blogspot.com/)
 * [Diane Friedli](https://dianefriedli.ch/)
+* [Maurice Gardiol](http://resistanceetouverture.blog.tdg.ch/)
+* [Philippe Golaz](https://philippegolaz.ch/)
+* [Martin Hoegger](https://martin.hoegger.org)
+* [Elio Jaillet](https://eliojaillet.ch/)
+* [Olivier Keshavjee](https://www.theologeek.ch/)
+* [Armin Kressmann](http://www.ethikos.ch/)
+* [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
+* [Félix Moser](https://moser-felix.ch/)
+* [Marc Pernot](http://marcpernot.net/)
 
 
 ## Et aussi
@@ -87,3 +92,10 @@ Ne vous focalisez pas sur les choix actuels!
 * [Le Lab](http://lelab.church/)
 * [La Maison bleu ciel](https://www.maisonbleuciel.ch/)
 * [Open Source Church](https://www.open-source.church/)
+* [Avent en vers](http://aventenvers.blogspot.com/)
+* [Avent Autrement](http://www.avent-autrement.ch/)
+* [Calendrier spirituel](https://calspi.wordpress.com/)
+* [Miettes de Carême](https://miettesdecareme.blogspot.com/)
+* [pertinence](http://www.pertinence.ch/)
+* [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
+* [Je cherche Dieu](https://jecherchedieu.ch/)
