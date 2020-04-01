@@ -1,7 +1,4 @@
-## LabelProtestant
-
-Pour le moment, le tri ne sert qu'à travailler mieux et plus rapidement.
-Ne vous focalisez pas sur les choix actuels!
+# LabelProtestant
 
 ## Églises
 
@@ -15,39 +12,40 @@ Ne vous focalisez pas sur les choix actuels!
 * [Suisse alémanique (CERFSA)](http://cerfsa.ch/)
 * [Suisse (EERS)](https://www.evref.ch/)
 
+## Lieux d'Église
+
+* [Cathédrale de Lausanne](http://www.cathedrale-lausanne.ch/)
+* [Espace Fusterie](https://espace-fusterie.epg.ch/)
+* [Espace Saint-Gervais](https://espace-saint-gervais.epg.ch/)
+* [L'esprit sainf](http://www.sainf.ch/)
+* [La Maison bleu ciel](https://www.maisonbleuciel.ch/)
+* [Le Lab](http://lelab.church/)
 
 ## Formation
 
-* [Office Protestant de la Formation (OPF)](https://www.protestant-formation.ch/)
 * [Atelier oecuménique de théologie (AOT)](http://www.aotge.ch/)
 * [Cèdres Formation](https://cedresformation.ch/)
 * [Centre de Sornetan](http://www.centredesornetan.ch/)
 * [Crêt-Bérard](http://www.cret-berard.ch/)
-* [Centre pour l'information et la documentation chrétiennes (CIDOC)](https://www.cidoc.ch/)
-* [Centre oecuménique de documentation (COD)](https://www.cod-ne.ch/)
-* [Centre oecuménique de catéchèse (COEC)](https://coec-documentation.info/)
-* [Centre de recherche et de documentation catéchétique (CREDOC)](https://www.mediatheque-cip.ch/mediatheque/Partenaires/CREDOC)
-* [Revue Lire & Dire](http://www.lire-et-dire.ch/)
 * [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
 * [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/)
-* [Musée international de la Réforme](https://www.musee-reforme.ch/)
-* [L'esprit sainf](http://www.sainf.ch/)
-* [Espace Saint-Gervais](https://espace-saint-gervais.epg.ch/)
-* [Espace Fusterie](https://espace-fusterie.epg.ch/)
-* [Cathédrale de Lausanne](http://www.cathedrale-lausanne.ch/)
+* [Office Protestant de la Formation (OPF)](https://www.protestant-formation.ch/)
 
+## Livre, bibliothèques
 
-## Livres
-
-* [Office protestant d'éditions chrétiennes (OPEC)](https://www.protestant-edition.ch/)
-* [Éditions Ouverture](https://editionsouverture.ch/)
+* [Centre de recherche et de documentation catéchétique (CREDOC)](https://www.mediatheque-cip.ch/mediatheque/Partenaires/CREDOC)
+* [Centre oecuménique de catéchèse (COEC)](https://coec-documentation.info/)
+* [Centre oecuménique de documentation (COD)](https://www.cod-ne.ch/)
+* [Centre pour l'information et la documentation chrétiennes (CIDOC)](https://www.cidoc.ch/)
 * [Éditions Labor et Fides](https://www.laboretfides.com/)
-
+* [Éditions Ouverture](https://editionsouverture.ch/)
+* [Office protestant d'éditions chrétiennes (OPEC)](https://www.protestant-edition.ch/)
+* [Revue Lire & Dire](http://www.lire-et-dire.ch/)
 
 ## Culture
 
 * [Ciné-feuilles](https://www.cine-feuilles.ch/)
-
+* [Musée international de la Réforme](https://www.musee-reforme.ch/)
 
 ## Médias
 
@@ -61,10 +59,10 @@ Ne vous focalisez pas sur les choix actuels!
 * [Centre social protestant (CSP)](https://csp.ch/)
 * [diaconie.ch](https://www.diaconie.ch/)
 * [DM-échange et mission](https://www.dmr.ch/)
-* [Pain pour le prochain](https://painpourleprochain.ch/)
-* [Voir et Agir](https://voir-et-agir.ch/)
 * [EPER](https://www.eper.ch/)
 * [Offrir son aide](https://www.offrir-son-aide.ch/)
+* [Pain pour le prochain](https://painpourleprochain.ch/)
+* [Voir et Agir](https://voir-et-agir.ch/)
 
 
 ## Blogs et sites personnels
@@ -86,16 +84,14 @@ Ne vous focalisez pas sur les choix actuels!
 * [Marc Pernot](http://marcpernot.net/)
 
 
-## Et aussi
+## Réflexion
 
-* [celebrer.ch](https://celebrer.ch/)
-* [Le Lab](http://lelab.church/)
-* [La Maison bleu ciel](https://www.maisonbleuciel.ch/)
-* [Open Source Church](https://www.open-source.church/)
-* [Avent en vers](http://aventenvers.blogspot.com/)
 * [Avent Autrement](http://www.avent-autrement.ch/)
+* [Avent en vers](http://aventenvers.blogspot.com/)
 * [Calendrier spirituel](https://calspi.wordpress.com/)
+* [celebrer.ch](https://celebrer.ch/)
+* [Je cherche Dieu](https://jecherchedieu.ch/)
 * [Miettes de Carême](https://miettesdecareme.blogspot.com/)
+* [Open Source Church](https://www.open-source.church/)
 * [pertinence](http://www.pertinence.ch/)
 * [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
-* [Je cherche Dieu](https://jecherchedieu.ch/)
