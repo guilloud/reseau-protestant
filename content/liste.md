@@ -5,7 +5,7 @@ date: 2020-04-02
 
 Les site de cette liste dépendent directement ou indirectement de la Conférence des Églises romandes (CER), d'Églises membres de la CER, de paroisses d'Églises membres de la CER ou de ministres de ces Églises. Ainsi que différents partenaires de longue date.
 
-La liste à jour se trouve toujours à l'adresse: https://labelprotestant.ch/liste/
+La liste à jour se trouve toujours à l'adresse: https://reseau-protestant.ch/liste/
 
 Comme expliqué dans [Comment participer?](/participer/), c'est le texte ci-dessous qui doit être repris sur votre page.
 

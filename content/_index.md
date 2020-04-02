@@ -1,11 +1,11 @@
 ---
-title: LabelProtestant
+title: Réseau protestant
 ---
 
 Les sites protestants réformés sont nombreux en Suisse romande.
 Ils sont divers, foisonnants, mais pas toujours bien liés entre eux.
 
-Pour essayer de donner plus de visibilité au web protestant romand, voici **LabelProtestant**.
+Pour essayer de donner plus de visibilité au web protestant romand, voici **Réseau protestant**.
 
 ## Le projet
 

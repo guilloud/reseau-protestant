@@ -1,7 +1,7 @@
-baseURL: https://labelprotestant.ch/
+baseURL: https://reseau-protestant.ch/
 languageCode: fr-ch
 defaultContentLanguage: fr
-title: LabelProtestant
+title: Réseau protestant
 
 params:
   description: Sites protestants réformés de Suisse romande en réseau.
