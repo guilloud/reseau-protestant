@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{ block "title" . }}
+        {{ .Site.Title }}
+        {{ end }}</title>
+    
+<link href="https://fonts.googleapis.com/css?family=Courier+Prime:400,400i,700,700i&display=swap" rel="stylesheet">
+
+    <style>
+
+        html {
+            font-family: 'Courier Prime', sans-serif;
+            color: #333;
+            background: #FFF;
+            font-size: 100%;
+            line-height: 1.5;
+
+        }
+
+        body {
+            max-width: 35rem;
+            margin: auto;
+            padding: 2rem 1rem 5rem 1rem;
+        }
+
+        header {
+          margin-bottom: 5rem;
+        }
+
+        footer {
+          margin-top: 3rem;
+          font-size: .9rem;
+        }
+
+        a {
+          color: #333;
+        }
+
+        header a {
+          margin-right: 1rem;
+        }
+
+        ul {
+          padding: 0;
+        }
+
+        li {
+          list-style: circle;
+        }
+
+        li + li {
+          margin-top: .5rem;
+        }
+
+
+
+    </style>
+
+<link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
+{{ template "_internal/google_analytics_async.html" . }}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+{{ hugo.Generator }}
+</head>
+
+<body>
+    <header>
+        <nav>
+        <a href="/" rel="home">{{ .Site.Title }}</a>
+        <a href="/liste/">Liste</a>
+        <a href="/participer/">Participer</a>
+        <a href="/contacts/">Contacts</a>
+        </nav>
+    </header>
+    {{ block "main" . }}{{ end }}
+    <footer>
+      <p>LabelProtestant est maintenu sur <a href="https://github.com/nfriedli/labelprotestant/">GitHub</a> sous licence CC0.</p>
+    </footer>
+</body>
+
+</html>
