@@ -8,8 +8,6 @@
   <title>{{ block "title" . }}
     {{ .Site.Title }}
     {{ end }}</title>
-
-    <link href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700,700i&display=swap" rel="stylesheet">
     <style>
     :root {
       --fluid-min-width: 320;
@@ -58,6 +56,47 @@
       --step-3: calc(((var(--fluid-min-size-3) * 1rem) + (var(--fluid-max-size-3) - var(--fluid-min-size-3)) * var(--fluid-bp)));
     }
 
+    /* alegreya-regular - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alegreya Regular'), local('Alegreya-Regular'),
+       url('/fonts/alegreya-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/alegreya-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* alegreya-italic - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Alegreya Italic'), local('Alegreya-Italic'),
+       url('/fonts/alegreya-v13-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/alegreya-v13-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* alegreya-700 - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Alegreya Bold'), local('Alegreya-Bold'),
+       url('/fonts/alegreya-v13-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/alegreya-v13-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* alegreya-700italic - latin */
+@font-face {
+  font-family: 'Alegreya';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Alegreya Bold Italic'), local('Alegreya-BoldItalic'),
+       url('/fonts/alegreya-v13-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/alegreya-v13-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
     html {
       font-family: 'Alegreya', serif;
       color: #333;
@@ -67,7 +106,7 @@
     }
 
     body {
-      max-width: 1000px;
+      max-width: 35rem;
       margin: auto;
       padding: var(--step-1);
     }
@@ -93,14 +132,21 @@
     h1 {
       font-size: var(--step-2);
       color: hsl(180, 70%, 20%);
-      margin-bottom: 0;
+      margin-bottom: var(--step-1);
+      line-height: 1.1;
     }
 
     h2 {
       font-size: var(--step-1);
       color: hsl(180, 70%, 20%);
-      margin-bottom: 0;
+      margin-bottom: var(--step-0);
       margin-top: var(--step-1);
+      line-height: 1.1;
+    }
+
+    p {
+      margin-top: 0;
+      margin-bottom: .5rem;
     }
 
     ul li {
