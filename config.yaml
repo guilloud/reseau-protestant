@@ -4,10 +4,10 @@ defaultContentLanguage: fr
 title: Réseau protestant
 
 params:
+  title: Réseau protestant romand
   description: Sites protestants réformés de Suisse romande en réseau.
   images: 
     - /img/network.jpg
-
 
 disableKinds:
   - taxonomy
