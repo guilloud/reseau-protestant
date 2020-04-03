@@ -21,13 +21,13 @@ Le *Réseau protestant* comprend des sites qui dépendent directement ou indirec
 
 Cette [liste des sites](/liste/) est évolutive.
 Elle doit être consensuelle et discutée régulièrement. 
-Elle ne prétend pas à l'exhaustivité mais essaie d'être représentative du web protestant réformée en Suisse romande.
+Elle ne prétend pas à l'exhaustivité mais essaie d'être représentative du web protestant réformé en Suisse romande.
 
 ## Motivation
 
 En publiant un la liste du *Réseau protestant* du votre site, vous permettez:
 
-- aux internautes d'avoir un aperçu rapide du panorama réformé romand et de les inviter à prolonger leur navigation;
+- aux internautes d'avoir un aperçu rapide du panorama réformé romand;
 - aux moteurs de recherche de mieux *comprendre* l'existence d'une galaxie protestante en Suisse romande.
 
 Pour améliorer le référencement de tous ces sites, il vaut la peine de comprendre quelques [enjeux techniques du référencement](/technique/).
