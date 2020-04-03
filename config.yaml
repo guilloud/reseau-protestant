@@ -6,8 +6,8 @@ title: Réseau protestant
 params:
   description: Sites protestants réformés de Suisse romande en réseau.
   images: 
-    - https://cdn.pixabay.com/photo/2020/02/15/14/33/network-4851119_960_720.jpg
-    - https://cdn.pixabay.com/photo/2013/07/26/06/23/pasture-fence-167492_960_720.jpg
+    - /img/network.jpg
+
 
 disableKinds:
   - taxonomy

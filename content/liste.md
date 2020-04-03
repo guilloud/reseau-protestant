@@ -1,5 +1,6 @@
 ---
-title: La liste des sites du réseau protestant
+title: Une liste de sites web
+description: Des sites Internet représentatifs du web protestant réformé de Suisse romande, classés par catégories.
 date: 2020-04-03
 ---
 
@@ -30,7 +31,7 @@ Version du 3 avril 2020
 
 ## Formation
 
-* [Atelier oecuménique de théologie (AOT)](http://www.aotge.ch/)
+* [Atelier œcuménique de théologie (AOT)](http://www.aotge.ch/)
 * [Cèdres Formation](https://cedresformation.ch/)
 * [Centre de Sornetan](http://www.centredesornetan.ch/)
 * [Crêt-Bérard](http://www.cret-berard.ch/)
@@ -41,8 +42,8 @@ Version du 3 avril 2020
 ## Livre, bibliothèques
 
 * [Centre de recherche et de documentation catéchétique (CREDOC)](https://www.mediatheque-cip.ch/mediatheque/Partenaires/CREDOC)
-* [Centre oecuménique de catéchèse (COEC)](https://coec-documentation.info/)
-* [Centre oecuménique de documentation (COD)](https://www.cod-ne.ch/)
+* [Centre œcuménique de catéchèse (COEC)](https://coec-documentation.info/)
+* [Centre œcuménique de documentation (COD)](https://www.cod-ne.ch/)
 * [Centre pour l'information et la documentation chrétiennes (CIDOC)](https://www.cidoc.ch/)
 * [Éditions Labor et Fides](https://www.laboretfides.com/)
 * [Éditions Ouverture](https://editionsouverture.ch/)

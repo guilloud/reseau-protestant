@@ -34,6 +34,6 @@ Pour améliorer le référencement de tous ces sites, il vaut la peine de compre
 
 ## Question ou problème
 
-Si vous estimez impossible d'utiliser cette liste (site que vous estimez nécessaire mais manquant; site que vous ne pouvez soutenir), merci de [nous le signaler](/contact/) sans délai. Nous pourrons corriger la liste ou vous expliquer nos choix.
+Si vous estimez impossible d'utiliser cette liste (site que vous estimez nécessaire mais manquant; site que vous ne pouvez soutenir), merci de [nous le signaler](/contacts/) sans délai. Nous pourrons corriger la liste ou vous expliquer nos choix.
 
 *-- Marc Pernot & Nicolas Friedli*
