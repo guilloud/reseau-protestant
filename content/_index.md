@@ -32,7 +32,7 @@ En publiant un la liste du *Réseau protestant* du votre site, vous permettez:
 
 Pour améliorer le référencement de tous ces sites, il vaut la peine de comprendre quelques [enjeux techniques du référencement](/technique/).
 
-## Question ou problème
+## Question ou problème?
 
 Si vous estimez impossible d'utiliser cette liste (site que vous estimez nécessaire mais manquant; site que vous ne pouvez soutenir), merci de [nous le signaler](/contacts/) sans délai. Nous pourrons corriger la liste ou vous expliquer nos choix.
 
