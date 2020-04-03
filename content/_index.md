@@ -1,40 +1,39 @@
 ---
-title: Réseau protestant
+title: Réseau protestant réformé de Suisse romande
+description: Une proposition pragmatique pour entretenir la solidarité entre les différents sites du web protestant de Suisse romande.
+date: 2002-04-03
 ---
 
-Les sites protestants réformés sont nombreux en Suisse romande.
-Ils sont divers, foisonnants, mais pas toujours bien liés entre eux.
+Une proposition pragmatique pour entretenir la solidarité entre les différents sites du web protestant de Suisse romande.
+C'est en créant un réseau que nous sommes plus forts!
 
-Pour essayer de donner plus de visibilité au web protestant romand, voici **Réseau protestant**.
+## Participer
 
-## Le projet
+1. Se rendre sur la [liste des sites](/liste/) du réseau.
+2. La copier telle quelle sur une page de votre site, avec le lien vers source et la version.
+3. Facultatif: nous signaler votre page publiée.
 
-L'idée est double:
+Note: un lien vers ce site est bienvenu, mais ne remplace pas la publication de la liste complète.
 
-- proposer une liste représentative du web réformé en Suisse romande **pour les internautes**;
-- publier une liste de liens qui montre **aux moteurs de recherche** qu'un réseau existe.
+## Liste des sites
 
-Ce second point est important, peut-être même capital.
+Le *Réseau protestant* comprend des sites qui dépendent directement ou indirectement de la Conférence des Églises romandes (CER), d'Églises membres de la CER, de paroisses d'Églises membres de la CER ou de ministres de ces Églises, ainsi que différents partenaires de longue date.
 
-## Les enjeux
+Cette [liste des sites](/liste/) est évolutive.
+Elle doit être consensuelle et discutée régulièrement. 
+Elle ne prétend pas à l'exhaustivité mais essaie d'être représentative du web protestant réformée en Suisse romande.
 
-Les lignes de conduite ([General Guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)) concernant les sites web, publiées par Google en décembre 2019, insistent sur des principes qui concernent directement le web protestant. 
+## Motivation
 
-Une part importante de ce document parle d'E-A-T (Expertise, Authoritativeness, or Trustworthiness) ou **expertise**, **autorité** et **fiabilité**. 
+En publiant un la liste du *Réseau protestant* du votre site, vous permettez:
 
-En résumé: 
+- aux internautes d'avoir un aperçu rapide du panorama réformé romand et de les inviter à prolonger leur navigation;
+- aux moteurs de recherche de mieux *comprendre* l'existence d'une galaxie protestante en Suisse romande.
 
-- La **mise en lien** de sites de qualité permet de renforcer l'expertise, l'autorité et la fiabilité d'un site.
-- Plus généralement, la **création de liens** permet d'améliorer le référencement (SEO) des sites.
-- Les **pages aux contenus religieux ou théologiques** sont particulièrement surveillées et leur qualité est primordiale. Elles font partie des pages *Your Money or Your Life (YMYL)*; elles peuvent avoir un impact sur la vie des personnes.
-- La **possibilité de trouver la personne ou l'organisme** éditeur d'un site est très importante. Il en va de même pour la personne responsable de chaque page du site
+Pour améliorer le référencement de tous ces sites, il vaut la peine de comprendre quelques [enjeux techniques du référencement](/technique/).
 
-## L'appel
+## Question ou problème
 
-[Nous](/contacts/) avons élaboré une [liste de site protestants réformées de Suisse romande](/liste/) pour donner de l'importance à ce réseau.
-
-Nous vous expliquons [comment participer](/participer/) à cette initiative.
-
-Nous vous remercions pour votre implication.
+Si vous estimez impossible d'utiliser cette liste (site que vous estimez nécessaire mais manquant; site que vous ne pouvez soutenir), merci de [nous le signaler](/contact/) sans délai. Nous pourrons corriger la liste ou vous expliquer nos choix.
 
 *-- Marc Pernot & Nicolas Friedli*

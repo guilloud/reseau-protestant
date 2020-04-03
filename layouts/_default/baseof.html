@@ -2,85 +2,133 @@
 <html lang="{{ .Site.LanguageCode }}">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>{{ block "title" . }}
-        {{ .Site.Title }}
-        {{ end }}</title>
-    
-<link href="https://fonts.googleapis.com/css?family=Courier+Prime:400,400i,700,700i&display=swap" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ block "title" . }}
+    {{ .Site.Title }}
+    {{ end }}</title>
 
+    <link href="https://fonts.googleapis.com/css?family=Alegreya:400,400i,700,700i&display=swap" rel="stylesheet">
     <style>
+    :root {
+      --fluid-min-width: 320;
+      --fluid-max-width: 1140;
+      --fluid-min-size: 16;
+      --fluid-max-size: 24;
+      --fluid-min-ratio: 1.125;
+      --fluid-max-ratio: 1.2;
 
-        html {
-            font-family: 'Courier Prime', sans-serif;
-            color: #333;
-            background: #FFF;
-            font-size: 100%;
-            line-height: 1.5;
+      --fluid-screen: 100vw;
+      --fluid-bp: calc((var(--fluid-screen) - ((var(--fluid-min-width) / 16) * 1rem)) / ((var(--fluid-max-width) / 16) - (var(--fluid-min-width) / 16)));
+    }
 
-        }
+    @media screen and (min-width: 1140px) {
+      :root {
+        --fluid-screen: calc(var(--fluid-max-width) * 1px);
+      }
+    }
 
-        body {
-            max-width: 35rem;
-            margin: auto;
-            padding: 2rem 1rem 5rem 1rem;
-        }
+    :root {
+      --fluid-max-negative: (1 / var(--fluid-max-ratio) / var(--fluid-max-ratio));
+      --fluid-min-negative: (1 / var(--fluid-min-ratio) / var(--fluid-min-ratio));
 
-        header {
-          margin-bottom: 5rem;
-        }
+      --fluid-min-scale-0: var(--fluid-min-ratio);
+      --fluid-max-scale-0: var(--fluid-max-ratio);
+      --fluid-min-size-0: (var(--fluid-min-size)) / 16;
+      --fluid-max-size-0: (var(--fluid-max-size)) / 16;
+      --step-0: calc(((var(--fluid-min-size-0) * 1rem) + (var(--fluid-max-size-0) - var(--fluid-min-size-0)) * var(--fluid-bp)));
 
-        footer {
-          margin-top: 3rem;
-          font-size: .9rem;
-        }
+      --fluid-min-scale-1: var(--fluid-min-scale-0) * var(--fluid-min-ratio);
+      --fluid-max-scale-1: var(--fluid-max-scale-0) * var(--fluid-max-ratio);
+      --fluid-min-size-1: (var(--fluid-min-size) * var(--fluid-min-scale-0)) / 16;
+      --fluid-max-size-1: (var(--fluid-max-size) * var(--fluid-max-scale-0)) / 16;
+      --step-1: calc(((var(--fluid-min-size-1) * 1rem) + (var(--fluid-max-size-1) - var(--fluid-min-size-1)) * var(--fluid-bp)));
 
-        a {
-          color: #333;
-        }
+      --fluid-min-scale-2: var(--fluid-min-scale-1) * var(--fluid-min-ratio);
+      --fluid-max-scale-2: var(--fluid-max-scale-1) * var(--fluid-max-ratio);
+      --fluid-min-size-2: (var(--fluid-min-size) * var(--fluid-min-scale-1)) / 16;
+      --fluid-max-size-2: (var(--fluid-max-size) * var(--fluid-max-scale-1)) / 16;
+      --step-2: calc(((var(--fluid-min-size-2) * 1rem) + (var(--fluid-max-size-2) - var(--fluid-min-size-2)) * var(--fluid-bp)));
 
-        header a {
-          margin-right: 1rem;
-        }
+      --fluid-min-scale-3: var(--fluid-min-scale-2) * var(--fluid-min-ratio);
+      --fluid-max-scale-3: var(--fluid-max-scale-2) * var(--fluid-max-ratio);
+      --fluid-min-size-3: (var(--fluid-min-size) * var(--fluid-min-scale-2)) / 16;
+      --fluid-max-size-3: (var(--fluid-max-size) * var(--fluid-max-scale-2)) / 16;
+      --step-3: calc(((var(--fluid-min-size-3) * 1rem) + (var(--fluid-max-size-3) - var(--fluid-min-size-3)) * var(--fluid-bp)));
+    }
 
-        ul {
-          padding: 0;
-        }
+    html {
+      font-family: 'Alegreya', serif;
+      color: #333;
+      background: #FFF;
+      font-size: var(--step-0);
+      line-height: 1.4;
+    }
 
-        li {
-          list-style: circle;
-        }
+    body {
+      max-width: 1000px;
+      margin: auto;
+      padding: var(--step-1);
+    }
 
-        li + li {
-          margin-top: .5rem;
-        }
+    header {
+      margin-bottom: var(--step-3);
+    }
 
+    footer {
+      margin-top: var(--step-3);
+    }
 
+    a {
+      color: hsl(180, 70%, 20%);
+    }
 
-    </style>
+    header a {
+      margin-right: var(--step-1);
+      text-decoration: none;
+      color: #333;
+    }
 
-<link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
-{{ template "_internal/google_analytics_async.html" . }}
-{{ template "_internal/opengraph.html" . }}
-{{ template "_internal/twitter_cards.html" . }}
-{{ hugo.Generator }}
+    h1 {
+      font-size: var(--step-2);
+      color: hsl(180, 70%, 20%);
+      margin-bottom: 0;
+    }
+
+    h2 {
+      font-size: var(--step-1);
+      color: hsl(180, 70%, 20%);
+      margin-bottom: 0;
+      margin-top: var(--step-1);
+    }
+
+    ul li {
+      list-style: square;
+    }
+  </style>
+
+  <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
+  {{ template "_internal/google_analytics_async.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ hugo.Generator }}
 </head>
 
 <body>
-    <header>
-        <nav>
-        <a href="/" rel="home">{{ .Site.Title }}</a>
-        <a href="/liste/">Liste</a>
-        <a href="/participer/">Participer</a>
-        <a href="/contacts/">Contacts</a>
-        </nav>
-    </header>
-    {{ block "main" . }}{{ end }}
-    <footer>
-      <p>Réseau protestant est maintenu sur <a href="https://github.com/nfriedli/reseau-protestant/">GitHub</a> sous licence CC0.</p>
-    </footer>
+  <header>
+    <nav>
+      <a href="/" rel="home">{{ .Site.Title }}</a>
+      <a href="/liste/">La liste</a>
+      <a href="/technique/">Technique</a>
+      <a href="/contacts/">Contacts</a>
+    </nav>
+  </header>
+  {{ block "main" . }}{{ end }}
+  <footer>
+    <p>Réseau protestant est maintenu sur <a href="https://github.com/nfriedli/reseau-protestant/">GitHub</a> sous
+      licence CC0.</p>
+  </footer>
 </body>
 
 </html>

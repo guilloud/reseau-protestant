@@ -1,5 +1,5 @@
 ---
-title: Contacts
+title: Contacter un responsable du site
 date: 2020-04-02
 --- 
 
