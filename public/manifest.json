@@ -3,7 +3,7 @@
   "short_name": "RezoProt",
   "theme_color": "#0f5757",
   "background_color": "#0f5757",
-  "display": "browser",
+  "display": "standalone",
   "Scope": "/",
   "start_url": "/",
   "icons": [
