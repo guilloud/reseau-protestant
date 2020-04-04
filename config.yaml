@@ -12,3 +12,5 @@ params:
 disableKinds:
   - taxonomy
   - taxonomyTerm
+
+googleAnalytics: UA-162767126-1
