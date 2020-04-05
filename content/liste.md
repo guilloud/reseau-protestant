@@ -1,11 +1,11 @@
 ---
 title: Une liste de sites web
 description: Des sites Internet représentatifs du web protestant réformé de Suisse romande, classés par catégories.
-date: 2020-04-03
+date: 2020-04-05
 ---
 
 Source: https://reseau-protestant.ch/liste/  
-Version du 3 avril 2020
+Version du 5 avril 2020
 
 
 ## Églises
@@ -35,6 +35,7 @@ Version du 3 avril 2020
 * [Cèdres Formation](https://cedresformation.ch/)
 * [Centre de Sornetan](http://www.centredesornetan.ch/)
 * [Crêt-Bérard](http://www.cret-berard.ch/)
+* [Étudier la Bible](https://www.etudierlabible.ch/)
 * [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
 * [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/)
 * [Office Protestant de la Formation (OPF)](https://www.protestant-formation.ch/)
@@ -52,7 +53,7 @@ Version du 3 avril 2020
 
 ## Culture
 
-* [Ciné-feuilles](https://www.cine-feuilles.ch/)
+* [Centre culturel des Terreaux](https://terreaux.org/)
 * [Musée international de la Réforme](https://www.musee-reforme.ch/)
 
 ## Médias
@@ -64,6 +65,7 @@ Version du 3 avril 2020
 
 ## Solidarité
 
+* [Association diaconale romande](https://diaconat.ch/)
 * [diaconie.ch](https://www.diaconie.ch/)
 * [DM-échange et mission](https://www.dmr.ch/)
 * [EPER](https://www.eper.ch/)
@@ -98,7 +100,9 @@ Version du 3 avril 2020
 * [Calendrier spirituel](https://calspi.wordpress.com/)
 * [celebrer.ch](https://celebrer.ch/)
 * [Je cherche Dieu](https://jecherchedieu.ch/)
+* [Labo Khi](https://labokhi.ch/)
 * [Miettes de Carême](https://miettesdecareme.blogspot.com/)
 * [Open Source Church](https://www.open-source.church/)
 * [pertinence](http://www.pertinence.ch/)
+* [questiondieu](https://questiondieu.com/)
 * [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
