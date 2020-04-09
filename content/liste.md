@@ -1,11 +1,11 @@
 ---
 title: Une liste de sites web
 description: Des sites Internet représentatifs du web protestant réformé de Suisse romande, classés par catégories.
-date: 2020-04-05
+date: 2020-04-09
 ---
 
 Source: https://reseau-protestant.ch/liste/  
-Version du 5 avril 2020
+Version du 9 avril 2020
 
 
 ## Églises
@@ -106,3 +106,10 @@ Version du 5 avril 2020
 * [pertinence](http://www.pertinence.ch/)
 * [questiondieu](https://questiondieu.com/)
 * [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
+
+## Ressources professionnelles
+
+* [CulteBox](https://cultebox.ch/)
+* [Eglisepro.ch](https://eglisepro.ch/)
+* [Emploi-Église](http://www.emploi-eglise.ch/)
+* [LiturgiCiel](http://www.liturgiciel.ch/)
