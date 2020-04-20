@@ -7,29 +7,6 @@ date: 2020-04-20
 Source: https://reseau-protestant.ch/liste/  
 Version du 20 avril 2020
 
-## Blogs et sites personnels
-
-* [Olivier Bauer](https://olivierbauer.org/)
-* [Gilles Bourquin](http://gillesbourquin.ch/)
-* [Benjamin Corbaz](http://carnetderoutedunjeunepasteur.blogspot.com/)
-* [Jean-Jacques Corbaz](http://textesdejjcorbaz.blogspot.com/)
-* [Laure Devaux](https://lauredevaux.ch/)
-* [Noémie Emery](http://pelerine-au-chocolat.blogspot.com/)
-* [Diane Friedli](https://dianefriedli.ch/)
-* [Maurice Gardiol](http://resistanceetouverture.blog.tdg.ch/)
-* [Philippe Golaz](https://philippegolaz.ch/)
-* [Martin Hoegger](https://martin.hoegger.org)
-* [Elio Jaillet](https://eliojaillet.ch/)
-* [Olivier Keshavjee](https://www.theologeek.ch/)
-* [Armin Kressmann](http://www.ethikos.ch/)
-* [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
-* [Félix Moser](https://moser-felix.ch/)
-* [Daniel Neeser](http://dneeser.blog.tdg.ch/)
-* [Hyonou Paik](https://potinsdivins.wordpress.com/)
-* [Marc Pernot](http://marcpernot.net/)
-* [Vincent Schmid](http://vincentschmid.blog.tdg.ch/)
-* [les blogs de Réformés](https://www.reformes.ch/blogs)
-
 ## Lieux d'Église
 
 * [Cathédrale de Lausanne](http://www.cathedrale-lausanne.ch/)
@@ -53,6 +30,29 @@ Version du 20 avril 2020
 * [pertinence](http://www.pertinence.ch/)
 * [questiondieu](https://questiondieu.com/)
 * [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
+
+## Blogs et sites personnels
+
+* [Olivier Bauer](https://olivierbauer.org/)
+* [Gilles Bourquin](http://gillesbourquin.ch/)
+* [Benjamin Corbaz](http://carnetderoutedunjeunepasteur.blogspot.com/)
+* [Jean-Jacques Corbaz](http://textesdejjcorbaz.blogspot.com/)
+* [Laure Devaux](https://lauredevaux.ch/)
+* [Noémie Emery](http://pelerine-au-chocolat.blogspot.com/)
+* [Diane Friedli](https://dianefriedli.ch/)
+* [Maurice Gardiol](http://resistanceetouverture.blog.tdg.ch/)
+* [Philippe Golaz](https://philippegolaz.ch/)
+* [Martin Hoegger](https://martin.hoegger.org)
+* [Elio Jaillet](https://eliojaillet.ch/)
+* [Olivier Keshavjee](https://www.theologeek.ch/)
+* [Armin Kressmann](http://www.ethikos.ch/)
+* [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
+* [Félix Moser](https://moser-felix.ch/)
+* [Daniel Neeser](http://dneeser.blog.tdg.ch/)
+* [Hyonou Paik](https://potinsdivins.wordpress.com/)
+* [Marc Pernot](http://marcpernot.net/)
+* [Vincent Schmid](http://vincentschmid.blog.tdg.ch/)
+* [les blogs de Réformés](https://www.reformes.ch/blogs)
 
 ## Culture
 
