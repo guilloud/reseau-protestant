@@ -1,11 +1,11 @@
 ---
 title: Une liste de sites web
 description: Des sites Internet représentatifs du web protestant réformé de Suisse romande, classés par catégories.
-date: 2020-04-20
+date: 2020-04-21
 ---
 
 Source: https://reseau-protestant.ch/liste/  
-Version du 20 avril 2020
+Version du 21 avril 2020
 
 ## Lieux d'Église
 
@@ -16,6 +16,7 @@ Version du 20 avril 2020
 * [L'esprit sainf](http://www.sainf.ch/)
 * [La Maison bleu ciel](https://www.maisonbleuciel.ch/)
 * [Le Lab](http://lelab.church/)
+* [Sans le seuil](http://sansleseuil.ch/)
 
 ## Réflexion & théologie
 
