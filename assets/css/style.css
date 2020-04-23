@@ -114,3 +114,22 @@ margin-bottom: .5rem;
 ul li {
 list-style: square;
 }
+
+/* Version liste flex sur toutes les pages...
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style-type: none;
+    margin-right: 1em;
+    padding: 0;
+}
+
+*/

@@ -36,7 +36,7 @@ Version du 21 avril 2020
 
 * [Olivier Bauer](https://olivierbauer.org/)
 * [Gilles Bourquin](http://gillesbourquin.ch/)
-* [Benjamin Corbaz](http://carnetderoutedunjeunepasteur.blogspot.com/)
+* [Benjamin Corbaz](https://carnetderoutedunpasteurpassionne.blogspot.com/)
 * [Jean-Jacques Corbaz](http://textesdejjcorbaz.blogspot.com/)
 * [Laure Devaux](https://lauredevaux.ch/)
 * [Noémie Emery](http://pelerine-au-chocolat.blogspot.com/)
