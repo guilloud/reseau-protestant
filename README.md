@@ -8,6 +8,7 @@ Le site est généré avec [Hugo](https://gohugo.io/), dans sa dernière version
 
 La liste a été publiée sur les pages suivantes (à notre connaissance):
 
+* http://sansleseuil.ch/un-reseau-de-sites-ressources
 * https://dianefriedli.ch/reseau-protestant/
 * https://eliojaillet.ch/reseau-protestant/
 * https://epg.ch/reseau-protestant/
