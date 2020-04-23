@@ -1,11 +1,11 @@
 ---
 title: Une liste de sites web
 description: Des sites Internet représentatifs du web protestant réformé de Suisse romande, classés par catégories.
-date: 2020-04-21
+date: 2020-04-23
 ---
 
 Source: https://reseau-protestant.ch/liste/  
-Version du 21 avril 2020
+Version du 23 avril 2020
 
 ## Lieux d'Église
 
@@ -24,6 +24,7 @@ Version du 21 avril 2020
 * [Avent en vers](http://aventenvers.blogspot.com/)
 * [Calendrier spirituel](https://calspi.wordpress.com/)
 * [celebrer.ch](https://celebrer.ch/)
+* [ContactGPS](https://www.contactgps.ch)
 * [Labo Khi](https://labokhi.ch/)
 * [Miettes de Carême](https://miettesdecareme.blogspot.com/)
 * [Open Source Church](https://www.open-source.church/)
