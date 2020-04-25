@@ -18,6 +18,7 @@ La liste a été publiée sur les pages suivantes (à notre connaissance):
 * https://lauredevaux.ch/reseau-protestant/
 * https://paref2520.ch/liens-protestants/
 * https://philippegolaz.ch/reseau-protestant/
+* https://potinsdivins.wordpress.com/reseau-protestant/
 * https://www.eren.ch/trouver/reseau-protestant/
 * https://www.reformes.ch/trouver/reseau-protestant
 
