@@ -8,6 +8,7 @@ Le site est généré avec [Hugo](https://gohugo.io/), dans sa dernière version
 
 La liste a été publiée sur les pages suivantes (à notre connaissance):
 
+* http://perspectivesprotestantes.ch/liens.html
 * http://sansleseuil.ch/un-reseau-de-sites-ressources
 * https://centre-ville-rive-gauche.epg.ch/liste-de-sites-protestants-suisse-romande/
 * https://diaconat.ch/recherches/reseau-protestant/
@@ -23,11 +24,3 @@ La liste a été publiée sur les pages suivantes (à notre connaissance):
 * https://potinsdivins.wordpress.com/reseau-protestant/
 * https://www.eren.ch/trouver/reseau-protestant/
 * https://www.reformes.ch/trouver/reseau-protestant
-* https://www.reformes.ch/trouver/reseau-protestant
-
-
-Un lien vers la liste est proposé sur les pages suivantes (à notre connaissance):
-
-* https://chablaisvaudois.eerv.ch/2020/03/20/leerv-sinvite-chez/
-* https://eglisepro.ch/ressources/
-* https://referguel.ch/liens/
