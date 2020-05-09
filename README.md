@@ -19,6 +19,7 @@ La liste a été publiée sur les pages suivantes (à notre connaissance):
 * https://jeanmarcleresche.ch/reseau-protestant/
 * https://jecherchedieu.ch/ressources/une-liste-de-sites-web-dans-le-reseau-protestant-romand/
 * https://lauredevaux.ch/reseau-protestant/
+* https://martin.hoegger.org/index.php/19-page-d-accueil-droit/510-reseau-protestant-reforme-de-suisse-romande
 * https://paref2520.ch/liens-protestants/
 * https://philippegolaz.ch/reseau-protestant/
 * https://potinsdivins.wordpress.com/reseau-protestant/
